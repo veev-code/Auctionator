@@ -5,4 +5,4 @@ Auctionator.Constants.Durations = {
 }
 
 -- Item ID: 12938 - Blood of Heroes
-Auctionator.Constants.BLOOD_OF_HEROES_COST = 10000000 -- 100g in copper
+Auctionator.Constants.BLOOD_OF_HEROES_COST = 1000000 -- 100g in copper
