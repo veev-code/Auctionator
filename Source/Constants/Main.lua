@@ -58,7 +58,7 @@ Auctionator.Constants = {
   EnchantingVellumID = 38682,
   
   -- Item ID: 12938 - Blood of Heroes
-  BLOOD_OF_HEROES_COST = 100000, -- 100g in copper
+  BLOOD_OF_HEROES_COST = 1000000, -- 100g in copper
   
   -- Fee calculation constants
   MINIMUM_FEE = 50000, -- 5g in copper
